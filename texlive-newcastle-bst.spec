@@ -1,6 +1,6 @@
 Name:		texlive-newcastle-bst
 Version:	62856
-Release:	1
+Release:	2
 Summary:	A BibTeX style to format reference lists in the Harvard at Newcastle style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newcastle-bst
