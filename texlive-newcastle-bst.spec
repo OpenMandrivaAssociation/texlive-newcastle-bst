@@ -3,7 +3,7 @@ Version:	62856
 Release:	2
 Summary:	A BibTeX style to format reference lists in the Harvard at Newcastle style
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/newcastle-bst
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/newcastle-bst
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newcastle-bst.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/newcastle-bst.doc.r%{version}.tar.xz
